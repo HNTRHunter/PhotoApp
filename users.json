@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "uname": "Pineapple",
+            "password": "123",
+            "url_profile": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba",
+            "short_bio": "The pineapple is a tropical plant with an edible fruit."
+        },
+        {
+            "id": 2,
+            "uname": "Apple",
+            "password": "123",
+            "url_profile": "https://images.unsplash.com/photo-1560806887-1e4cd0b6fac6",
+            "short_bio": "An apple is an edible fruit produced by an apple tree."
+        },
+        {
+            "id": 3,
+            "uname": "Banana",
+            "password": "123",
+            "url_profile": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e",
+            "short_bio": "A banana is an elongated, edible fruit produced by several kinds of large herbaceous plants."
+        },
+        {
+            "id": 4,
+            "uname": "Orange",
+            "password": "123",
+            "url_profile": "https://images.unsplash.com/photo-1547514701-42722101795e",
+            "short_bio": "The orange is the fruit of various citrus species."
+        },
+        {
+            "id": 5,
+            "uname": "Strawberry",
+            "password": "123",
+            "url_profile": "https://images.unsplash.com/photo-1518635017498-87f514b751ba",
+            "short_bio": "The garden strawberry is a widely grown hybrid species of the genus Fragaria."
+        }
+    ]
+}
