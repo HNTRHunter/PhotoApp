@@ -4,19 +4,19 @@ import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
 public class User {
-  @SerializedName("id")
+  @SerializedName("article_id")
   @Expose
   private int id;
 
-  @SerializedName("uname")
+  @SerializedName("article_title")
   @Expose
   private String uname;
 
-  @SerializedName("url_profile")
+  @SerializedName("article_image")
   @Expose
   private String url_profile;
 
-  @SerializedName("short_bio")
+  @SerializedName("article_description")
   @Expose
   private String short_bio;
 
