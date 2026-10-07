@@ -2,63 +2,39 @@
     "users": [
         {
             "id": 1,
-            "uname": "Pineapple",
-            "url_profile": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba",
-            "short_bio": "The pineapple (Ananas comosus) is a tropical plant with an edible fruit and the most economically significant plant in the family Bromeliaceae. The pineapple is indigenous to South America, where it has been cultivated for many centuries. The introduction of the pineapple to Europe in the 17th century made it a significant cultural icon of luxury. Since the 1820s, pineapple has been commercially grown in greenhouses and many tropical plantations. Further, it is the third most important tropical fruit in world production. In the 20th century, Hawaii was a dominant producer of pineapples, especially for the US; however, by 2016, Costa Rica, Brazil, and the Philippines accounted for nearly one-third of the world's production of pineapples.\n Pineapples grow as a small shrub; the individual flowers of the unpollinated plant fuse to form a multiple fruit. The plant is normally propagated from the offset produced at the top of the fruit, or from a side shoot, and typically mature within a year."
+            "uname": "Donald Trump",
+            "url_profile": "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg",
+            "short_bio": "Donald John Trump is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021."
         },
         {
             "id": 2,
-            "uname": "Cherry",
-            "url_profile": "https://images.unsplash.com/photo-1528821128474-27f963b062bf",
-            "short_bio": "A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe (stone fruit).\n Commercial cherries are obtained from cultivars of several species, such as the sweet Prunus avium and the sour Prunus cerasus. The name 'cherry' also refers to the cherry tree and its wood, and is sometimes applied to almonds and visually similar flowering trees in the genus Prunus, as in \"ornamental cherry\" or \"cherry blossom\". Wild cherry may refer to any of the cherry species growing outside cultivation, although Prunus avium is often referred to specifically by the name \"wild cherry\" in the British Isles."
+            "uname": "Elon Musk",
+            "url_profile": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg",
+            "short_bio": "Elon Reeve Musk is a businessman and investor. He is the founder, chairman, CEO, and CTO of SpaceX; angel investor, CEO, product architect, and former chairman of Tesla, Inc.; owner, executive chairman, and CTO of X Corp."
         },
         {
             "id": 3,
-            "uname": "Orange",
-            "url_profile": "https://images.unsplash.com/photo-1552841847-0e031d33a283",
-            "short_bio": "Orange"
+            "uname": "Taylor Swift",
+            "url_profile": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png",
+            "short_bio": "Taylor Alison Swift is an American singer-songwriter. Her songwriting, artistry, and entrepreneurship have influenced the music industry and popular culture."
         },
         {
             "id": 4,
-            "uname": "Avocado",
-            "url_profile": "https://images.unsplash.com/photo-1519162808019-7de1683fa2ad",
-            "short_bio": "Avocado"
+            "uname": "Lionel Messi",
+            "url_profile": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg",
+            "short_bio": "Lionel Andrés Messi is an Argentine professional footballer who plays as a forward for and captains both Major League Soccer club Inter Miami and the Argentina national team."
         },
         {
             "id": 5,
-            "uname": "Strawberry",
-            "url_profile": "https://images.unsplash.com/photo-1560155069-ad79768f2666",
-            "short_bio": "Strawberry"
+            "uname": "Cristiano Ronaldo",
+            "url_profile": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg",
+            "short_bio": "Cristiano Ronaldo dos Santos Aveiro is a Portuguese professional footballer who plays as a forward for and captains both Saudi Pro League club Al Nassr and the Portugal national team."
         },
         {
             "id": 6,
-            "uname": "Apple",
-            "url_profile": "https://images.unsplash.com/photo-1600423115367-87ea7661688f",
-            "short_bio": "Apple"
-        },
-        {
-            "id": 7,
-            "uname": "Pomegranate",
-            "url_profile": "https://images.unsplash.com/photo-1530730459653-e0edd4c6072e",
-            "short_bio": "Pomegranate"
-        },
-        {
-            "id": 8,
-            "uname": "Papaya",
-            "url_profile": "https://images.unsplash.com/photo-1517282009859-f000ec3b26fe",
-            "short_bio": "Papaya"
-        },
-        {
-            "id": 9,
-            "uname": "Pear",
-            "url_profile": "https://images.unsplash.com/photo-1601876819102-99560f772713",
-            "short_bio": "Pear"
-        },
-        {
-            "id": 10,
-            "uname": "Blueberry",
-            "url_profile": "https://images.unsplash.com/photo-1600046438510-46961a84f4b2",
-            "short_bio": "Blueberry"
+            "uname": "Bill Gates",
+            "url_profile": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bill_Gates_2018.jpg",
+            "short_bio": "William Henry Gates III is an American businessman, investor, philanthropist, and writer best known for co-founding the software giant Microsoft, along with his childhood friend Paul Allen."
         }
     ]
 }
