@@ -3,37 +3,37 @@
         {
             "id": 1,
             "uname": "Donald Trump",
-            "url_profile": "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg",
+            "url_profile": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg",
             "short_bio": "Donald John Trump is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021."
         },
         {
             "id": 2,
             "uname": "Elon Musk",
-            "url_profile": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg",
+            "url_profile": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg",
             "short_bio": "Elon Reeve Musk is a businessman and investor. He is the founder, chairman, CEO, and CTO of SpaceX; angel investor, CEO, product architect, and former chairman of Tesla, Inc.; owner, executive chairman, and CTO of X Corp."
         },
         {
             "id": 3,
             "uname": "Taylor Swift",
-            "url_profile": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png",
+            "url_profile": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/b/b1/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png",
             "short_bio": "Taylor Alison Swift is an American singer-songwriter. Her songwriting, artistry, and entrepreneurship have influenced the music industry and popular culture."
         },
         {
             "id": 4,
             "uname": "Lionel Messi",
-            "url_profile": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg",
+            "url_profile": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg",
             "short_bio": "Lionel Andrés Messi is an Argentine professional footballer who plays as a forward for and captains both Major League Soccer club Inter Miami and the Argentina national team."
         },
         {
             "id": 5,
             "uname": "Cristiano Ronaldo",
-            "url_profile": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg",
+            "url_profile": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg",
             "short_bio": "Cristiano Ronaldo dos Santos Aveiro is a Portuguese professional footballer who plays as a forward for and captains both Saudi Pro League club Al Nassr and the Portugal national team."
         },
         {
             "id": 6,
             "uname": "Bill Gates",
-            "url_profile": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bill_Gates_2018.jpg",
+            "url_profile": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/a/a0/Bill_Gates_2018.jpg",
             "short_bio": "William Henry Gates III is an American businessman, investor, philanthropist, and writer best known for co-founding the software giant Microsoft, along with his childhood friend Paul Allen."
         }
     ]
